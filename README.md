@@ -2,7 +2,7 @@ Bot deployed on GoogleCloud to ngnix and runned with gunicorn.
 
 
 
-Link on bot: @project_market_bot
+
 
 
 
